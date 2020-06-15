@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592221012 source:c:\users\dada\desktop\programarec\sem2\programaredinamica\levenshtein\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
