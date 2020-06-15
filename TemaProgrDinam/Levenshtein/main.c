@@ -7,8 +7,8 @@ int main()
     FILE *f = fopen("date.in", "r");
     FILE *g = fopen("date.out", "w");
     char a[10], b[10];
-    fscanf(f, "%s", &a);
-    fscanf(f, "%s", &b);
+    fscanf(f, "%s", a);
+    fscanf(f, "%s", b);
     int m = strlen(a);
     int n = strlen(b);
 
@@ -45,5 +45,6 @@ int main()
     }
 
     fclose(f);
+    fclose(g); 
     return 0;
 }
