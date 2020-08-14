@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587136633 source:c:\users\dada\desktop\programarec\sem2\4\numarobiecte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1587915763 source:c:\users\dada\desktop\programarec\sem2\4divimp\temadivimp\numarobiecte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

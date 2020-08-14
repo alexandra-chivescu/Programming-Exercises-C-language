@@ -1,0 +1,7 @@
+Mutarea: A => C
+Mutarea: A => B
+Mutarea: C => B
+Mutarea: A => C
+Mutarea: B => A
+Mutarea: B => C
+Mutarea: A => C
